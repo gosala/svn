@@ -16,6 +16,7 @@ ini_set('display_errors', 'off');
 	}elseif($pageactive == '/vijay/project3/ConfirmationFinish.php'){
 		$ConfirmationFinish = active;
 	}
+		/**************************** Test Changes ******************************/
 ?>
 <html>
 	<head>	
