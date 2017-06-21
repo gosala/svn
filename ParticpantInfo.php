@@ -43,3 +43,4 @@
 		</body>
 		<?php include("footer.php");?>
 </html>
+											<!--- changes from version 0.2 -->

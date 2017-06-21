@@ -33,3 +33,4 @@
 		</body>
 		
 </html>
+											<!--- changes from version 0.2 -->
